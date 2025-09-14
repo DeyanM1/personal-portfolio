@@ -1,3 +1,3 @@
 # Deyan Markov personal portfolio
 
-[![LINK](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+Open Website [here](https://deyanm1.github.io/personal-portfolio/)
